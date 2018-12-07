@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1517816126 source:d:\code\i love china1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Gamelib.h"
+	"Game.h"
+
+1517539111 source:d:\code\i love china1.0\gamelib.c
+	<stdio.h>
+	<windows.h>
+	"Gamelib.h"
+
+1517538198 d:\code\i love china1.0\gamelib.h
+	<stdio.h>
+
+1521887942 source:d:\code\i love china1.0\game.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Gamelib.h"
+	"Game.h"
+
+1517816126 d:\code\i love china1.0\game.h
+	<windows.h>
+	<stdio.h>
+	"Gamelib.h"
+
