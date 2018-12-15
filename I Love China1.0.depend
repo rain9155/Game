@@ -29,3 +29,33 @@
 	<stdio.h>
 	"Gamelib.h"
 
+1530540663 source:j:\code\game\game.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Gamelib.h"
+	"Game.h"
+
+1530540658 j:\code\game\gamelib.h
+	<stdio.h>
+
+1530540660 j:\code\game\game.h
+	<windows.h>
+	<stdio.h>
+	"Gamelib.h"
+
+1530540659 source:j:\code\game\gamelib.c
+	<stdio.h>
+	<windows.h>
+	"Gamelib.h"
+
+1530540648 source:j:\code\game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Gamelib.h"
+	"Game.h"
+
